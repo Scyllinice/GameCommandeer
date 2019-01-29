@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/MainWindow.qml</file>
+        <file>ui/controls/SearchBox.qml</file>
+    </qresource>
+</RCC>
